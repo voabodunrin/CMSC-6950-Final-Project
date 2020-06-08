@@ -13,7 +13,7 @@ The aim of this project is to process, analyze and present current Canadian Covi
 
 
 ## Technologies Used
-This project was built bith
+This project was built with
 
 * [python] - Programming Language
 * [Anaconda 3] - IDE
