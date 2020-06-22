@@ -37,7 +37,7 @@ This project was built with
 
 ## References
 
-*[Coronavirus disease (COVID-19): Outbreak update](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?topic=tilelink#a1) Government of Canada, 2020. 
+* [Coronavirus disease (COVID-19): Outbreak update](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?topic=tilelink#a1) Government of Canada, 2020. 
 * [#Flattenthecurve, but by how much?](https://blog.datawrapper.de/weekly-chart-coronavirus-doublingtimes/), Data Wrapper.
 * 
 
