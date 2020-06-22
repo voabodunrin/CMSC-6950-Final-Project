@@ -25,7 +25,7 @@ This project was built with
 * Q6: q6.ipynb plots content from files cases.dat and deaths.dat using Pandas package in Python.
 
 ## Usage
-
+* Q3: creates a dictionary that contains all provinces in order to plot the number of individuals tested in each province over time.
 * Q5: Run q5_proj.py from the command line. Example of command is 'python q5_proj.py "Newfoundland-and-Labrador" "cases" "19-05-2020" '.
 * Q6: Run command 'bash q5_shell.sh' to output data files, then run jypter notebook Q6.ipynb to form and save plots.  
 
